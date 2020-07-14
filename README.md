@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a software engineer based in Italy, ReactJS and AWS enthusiast, I love spending my time to learn new technologies and creating things with what I learned.
+I'm a software engineer based in Italy, ReactJS and AWS enthusiast, I love spending my time to learn new technologies and creating things with what I learned to make life easier.
 
 If you are searching teammate for a project, I'm happy to participate!
 
