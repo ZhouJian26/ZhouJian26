@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on SynChard
-- 🌱 I’m currently learning JS and AWS
-- 🕵 I'm looking for a remote job
-- 💬 Ask me about anything
-- 📫 How to reach me: [Twitter](https://twitter.com/ZhouJian26)
-<!-- - ⚡ Fun fact: ... -->
+I'm a software engineer based in Italy, ReactJS and AWS enthusiast, I love spending my time to learn new technologies and creating things with what I learned.
+
+If you are searching teammate for a project, I'm happy to participate!
+
+PS I'm currently level up my skill in JS and AWS doing some side project, just be patient soon available here.
+
+Let's contact me on [Twitter](https://twitter.com/ZhouJian26)
+
