@@ -1,4 +1,4 @@
-# Hi there, I'm Jian 👋
+### Hi there, I'm Jian 👋
 
 I'm a software engineer based in Italy, ReactJS and AWS enthusiast, I love spending my time to learn new technologies and creating things with what I learned to solve my problems and hopefully also yours.
 
