@@ -2,14 +2,14 @@
 
 I'm a software engineer based in Italy, **ReactJS and AWS enthusiast**, I love spending my time to learn new technologies and creating things, you see, the process of creating something even if it is just a little project makes me very excited and happy.
 
-### What I am doing
+### What I'm doing 🔥
 
 - `level up JS and AWS skill` doing side project, the latest progress below
 - started `studying by myself Japanese and Chinese`, little progress every day
 
-### What is coming
+### What's coming 😎
 
-- `brand new version of my personal website` before the end this year 2020, ya I know [currently](https://zhoujian.now.sh) is really old and ugly
+- `brand new personal website` before the end this year, ya I know [currently](https://zhoujian.now.sh) is really old and ugly
 
 <hr>  
 
