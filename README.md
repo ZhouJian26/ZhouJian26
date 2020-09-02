@@ -5,7 +5,7 @@ I'm a software engineer based in Italy, **ReactJS and AWS enthusiast**, I love s
 ### What I'm doing 🔥
 
 - `level up JS and AWS skill` doing side project, the latest progress below
-- started `studying by myself Japanese and Chinese`, little progress every day
+- `studying by myself Japanese and Chinese`, little progress every day
 
 ### What's coming 😎
 
