@@ -13,7 +13,7 @@ I'm a software engineer based in Italy, **ReactJS and AWS enthusiast**, I love s
 
 ### What's coming 😎
 
-- `brand new personal website` before the end this year, ya I know the <a href="https://zhoujian.now.sh" target="_blank">current one</a> is really old and ugly
+- `brand new personal website` before the end this year, ya I know the [current one](https://zhoujian.now.sh) is really old and ugly
 
 <hr>  
 
