@@ -13,8 +13,8 @@ I'm a software engineer based in Italy, **ReactJS and AWS enthusiast**, I love s
 
 <hr>  
 
-**Searching teammate for a project?** I'm happy to participate! [Contact Me](mailto:jian.zhou@mail.polimi.it)
-
-Let's keep in touch on [Twitter](https://twitter.com/ZhouJian26)
-
+<p align="center">
+ <b>Searching teammate for a project?</b> I'm happy to participate! <a href="mailto:jian.zhou@mail.polimi.it">Contact Me</a><br>
+ Let's keep in touch on <a href="https://twitter.com/ZhouJian26">Twitter</a>
+</p>
  
