@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhoujian26" alt="Zhou Jian's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoujian26&layout=compact" alt="Most Used Language">
 </p>
 
 ### Hi there, I'm Jian 👋
