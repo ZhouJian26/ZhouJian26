@@ -8,11 +8,6 @@ I'm a software engineer based in Italy, **ReactJS and AWS enthusiast**, I love s
 
 ### What I'm doing 🔥
 
-- `level up JS and AWS skill` doing side project, the latest progress below
-- `studying by myself Chinese`, tiny progress every day
-
-### Fun facts 😎
-
 - `Sumy` the app for keeping track of sums (*Beta*). [Try it now](https://sumy.heyma.io)
 - generate random name with `Nawes`. [Try it now](https://nawes.heyma.io)
 - a `brand new personal website` before the end this year, ya I know the [current one](https://zhoujian.now.sh) is really old and ugly
