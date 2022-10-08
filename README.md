@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhoujian26&show_icons=true&theme=algolia&hide_title=true" alt="Zhou Jian's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhoujian26&show_icons=true&theme=algolia&hide_title=true&count_private=true" alt="Zhou Jian's github stats">
 </p>
 
 ### Hi there, I'm Jian 👋
