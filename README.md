@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhoujian26&show_icons=true&theme=algolia&hide_title=true&count_private=true" alt="Zhou Jian's github stats">
-</p>
-
 ### Hi there, I'm Jian 👋
 
 I'm a software engineer based in Italy, **ReactJS, Typescript, Kubernetes and AWS enthusiast**, I love spending my time to learn new technologies and creating things, you see, the process of creating something even if it is just a little project makes me very excited and happy.
